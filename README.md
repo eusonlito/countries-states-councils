@@ -1,6 +1,8 @@
 # countries-states-councils
 A SQL file with countres (multilanguage), states/regions and councils with geolocation
 
+Un fichero SQL con países (multiidioma), provincias/estados/regiones y ayuntamientos con geolocalización
+
 # Schema
 ```sql
 CREATE TABLE `language` (
